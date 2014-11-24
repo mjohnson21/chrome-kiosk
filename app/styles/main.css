@@ -1,0 +1,34 @@
+body {
+    padding: 20px;
+}
+.admin-panel,
+.webview {
+	position: absolute;
+	top: 0;
+	left: 0;
+	height: 100%;
+	width: 100%;
+	background-color: #fff;
+}
+.btn-admin {
+	display: block;
+	background-color: black;
+	color: white;
+	position: absolute;
+	bottom: 0;
+	right: 0;
+	height: 100px;
+	width: 100px;
+	z-index: 3;
+}
+.webview {
+	z-index: 1;
+}
+.admin-panel {
+	z-index: 2;
+}
+
+
+.ng-hide {
+	display: none;
+}

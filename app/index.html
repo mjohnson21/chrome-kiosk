@@ -1,0 +1,41 @@
+<!doctype html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>chrome kiosk</title>
+
+        <!-- build:css styles/vendor.css -->
+        <!-- bower:css -->
+        <link rel="stylesheet" href="bower_components/normalize.css/normalize.css">
+        <!-- endbower -->
+        <!-- endbuild -->
+
+        <!-- build:css styles/main.css -->
+        <link rel="stylesheet" href="styles/main.css">
+        <!-- endbuild -->
+    </head>
+    <body ng-csp ng-app="KioskApp" ng-init="init()" ng-controller="kioskCtrl">
+        {{webviewSrc}}
+        <webview class="webview" ng-src="{{safeWebviewSrc}}"></webview>
+        <button class="btn-admin" ng-click="showAdmin=!showAdmin">Admin</button>
+
+        <div class="admin-panel ng-hide" ng-show="showAdmin">
+            <h1>Admin Panel</h1>
+            <input placeholder="webviewSrc" type="text" ng-model="currentWebviewSrc">
+            <button ng-click="setWebviewSrc()">submit</button>
+        </div>
+
+        <!-- build:js scripts/vendor.js -->
+        <!-- bower:js -->
+        <script src="bower_components/angular/angular.js"></script>
+        <script src="bower_components/angular-chrome-storage/angular-chrome-storage.js"></script>
+        <!-- endbower -->
+        <!-- endbuild -->
+
+        <!-- build:js scripts/index.js -->
+        <script src="scripts/index.js"></script>
+        <script src="scripts/kioskApp.js"></script>
+
+        <!-- endbuild -->
+    </body>
+</html>
