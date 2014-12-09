@@ -1,16 +1,16 @@
 {
-    "name": "__MSG_appName__",
-    "description": "__MSG_appDescription__",
-    "version": "44",
+    "name": "Simple Chrome Kiosk",
+    "author": {
+        "name": "Michael Johnson",
+        "email": "mjohnson21@gmail.com"
+    },
+    "description": "Chrome app for launching a website as a full screen kiosk.",
+    "version": "46",
     "manifest_version": 2,
     "default_locale": "en",
+    "kiosk_enabled": true,
+    "offline_enabled": true,
     "permissions": [
-        {
-            "socket": [
-                "tcp-listen:*:*",
-                "tcp-connect:*:*"
-            ]
-        },
         "alwaysOnTopWindows",
         "power",
         "fullscreen",

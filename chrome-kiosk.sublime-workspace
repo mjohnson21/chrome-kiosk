@@ -1,0 +1,2205 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"chrome",
+				"chromeStorage"
+			],
+			[
+				"get",
+				"get	Get Elements"
+			],
+			[
+				"sto",
+				"storedWebviewSrc"
+			],
+			[
+				"com",
+				"comment-section	Comment JS Section"
+			],
+			[
+				"show",
+				"showAdmin"
+			],
+			[
+				"set",
+				"setWebviewSrc"
+			],
+			[
+				"adm",
+				"admin-panel"
+			],
+			[
+				"$loc",
+				"$location	AngularJS"
+			],
+			[
+				"url",
+				"urlParams"
+			],
+			[
+				"refin",
+				"refineSearchValues"
+			],
+			[
+				"refi",
+				"refineSearchValues"
+			],
+			[
+				"key",
+				"keyCount"
+			],
+			[
+				"$locat",
+				"$locationChangeSuccess	AngularJS (E)"
+			],
+			[
+				"view",
+				"viewType"
+			],
+			[
+				"text",
+				"textarea"
+			],
+			[
+				"$sc",
+				"$scope"
+			],
+			[
+				"av",
+				"availableTimes"
+			],
+			[
+				"coms",
+				"comment-sub-heading	Comment CSS Sub-section"
+			],
+			[
+				"invent",
+				"inventoryTypes"
+			],
+			[
+				"$s",
+				"$scope"
+			],
+			[
+				"elem",
+				"angular.element"
+			],
+			[
+				"mq",
+				"mq	CSS Media query via var"
+			],
+			[
+				"anim",
+				"animation"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"ta",
+				"ta	text-align"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"trans",
+				"transition"
+			],
+			[
+				"vis",
+				"visibility"
+			],
+			[
+				"lette",
+				"letter-spacing"
+			],
+			[
+				"cons",
+				"console"
+			],
+			[
+				"Mile",
+				"MileageRange"
+			],
+			[
+				"ease",
+				"ease-in-out"
+			],
+			[
+				"quick",
+				"quickView"
+			],
+			[
+				"fw",
+				"fw	font-weight"
+			],
+			[
+				"max-",
+				"max-height"
+			],
+			[
+				"$ro",
+				"$rootScope	AngularJS"
+			],
+			[
+				"max",
+				"max-height"
+			],
+			[
+				"media",
+				"@media	@media ${1:screen} {\n	${0}\n}"
+			],
+			[
+				"last",
+				"last-child"
+			],
+			[
+				"first",
+				"first-child"
+			],
+			[
+				"rg",
+				"rgba	rgba()"
+			],
+			[
+				"pA",
+				"padding"
+			],
+			[
+				"$lo",
+				"$location	AngularJS"
+			],
+			[
+				"off",
+				"offsetY"
+			],
+			[
+				"mobile",
+				"mobile-max"
+			],
+			[
+				"mobil",
+				"mobileMapHeight"
+			],
+			[
+				"ba",
+				"background-size"
+			],
+			[
+				"j",
+				"jQuery"
+			],
+			[
+				"tt",
+				"tt-n	text-transform: none;"
+			],
+			[
+				"font-",
+				"font-family-base"
+			],
+			[
+				"clear",
+				"clearfix"
+			],
+			[
+				"in",
+				"inc	@include"
+			],
+			[
+				"hei",
+				"height"
+			],
+			[
+				"li",
+				"lighten"
+			],
+			[
+				"rel",
+				"relative"
+			],
+			[
+				"light",
+				"lighten"
+			],
+			[
+				"let",
+				"letter-spacing"
+			],
+			[
+				"gray",
+				"gray-tan"
+			],
+			[
+				"echo-green",
+				"echo-green-light"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"$root",
+				"$rootScope	AngularJS"
+			],
+			[
+				"for",
+				"for	for (…) {…} (Improved Native For-Loop)"
+			],
+			[
+				"ls",
+				"lts	letter-spacing"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"tex",
+				"text-indent"
+			],
+			[
+				"t",
+				"ta	text-align"
+			],
+			[
+				"backgrou",
+				"background-size"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"tal",
+				"ta:l	text-align:left"
+			],
+			[
+				"current",
+				"currentModels"
+			],
+			[
+				"$location",
+				"angular: $location"
+			],
+			[
+				"column",
+				"column-gap"
+			],
+			[
+				"columns",
+				"columns"
+			],
+			[
+				"min-",
+				"min-width"
+			],
+			[
+				"dis",
+				"display"
+			],
+			[
+				"button",
+				"button-wrap"
+			],
+			[
+				"dn",
+				"d:n	display:none"
+			],
+			[
+				"d",
+				"d:b	display:block"
+			],
+			[
+				"lsn",
+				"list:n	list-style-type:none"
+			],
+			[
+				"button-",
+				"button-oneClick"
+			],
+			[
+				"search-result",
+				"search-results-header"
+			],
+			[
+				"bor",
+				"border-right"
+			],
+			[
+				"bord",
+				"border-radius"
+			],
+			[
+				"rgb",
+				"rgba	rgba()"
+			],
+			[
+				"curr",
+				"currentModels"
+			],
+			[
+				"log",
+				"angular: $log"
+			],
+			[
+				"un",
+				"angular.isUndefined"
+			],
+			[
+				"search",
+				"searchParams"
+			],
+			[
+				"vehicle",
+				"vehicleDictionary"
+			],
+			[
+				"vehic",
+				"vehicleSearchApp"
+			],
+			[
+				"pos",
+				"pos:f	position:fixed"
+			],
+			[
+				"posa",
+				"pos:a	position:absolute"
+			],
+			[
+				"mo",
+				"angular.module"
+			],
+			[
+				"breakpoint",
+				"breakpoint4col"
+			],
+			[
+				"remove",
+				"angular: removeClass"
+			],
+			[
+				"ttu",
+				"tt:u	text-transform:uppercase"
+			],
+			[
+				"dib",
+				"d:ib	display:inline-block"
+			],
+			[
+				"br",
+				"border-radius"
+			],
+			[
+				"colum",
+				"column-gap"
+			],
+			[
+				"gut",
+				"fg-gutter"
+			],
+			[
+				"sec",
+				"section3"
+			],
+			[
+				"Tween",
+				"TweenLite"
+			],
+			[
+				"rgba",
+				"rgba()"
+			],
+			[
+				"cl",
+				"conlog	Console JS log"
+			],
+			[
+				"script",
+				"script"
+			],
+			[
+				"w",
+				"w	width"
+			],
+			[
+				"bb",
+				"bdb	border-bottom"
+			],
+			[
+				"transition",
+				"transition"
+			],
+			[
+				"transfor",
+				"transform"
+			],
+			[
+				"bt",
+				"bdt	border-top"
+			],
+			[
+				"color-",
+				"color-secondary"
+			],
+			[
+				"brea",
+				"breakpoint"
+			],
+			[
+				"break",
+				"breakpointUnder"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"m",
+				"m:au	margin:0 auto"
+			],
+			[
+				"bgs",
+				"background-size"
+			],
+			[
+				"life",
+				"lifestyle"
+			],
+			[
+				"ng-",
+				"ng-enter"
+			],
+			[
+				"ng-h",
+				"ng-hide-add"
+			],
+			[
+				"bx",
+				"bxz:bb	box-sizing:border-box"
+			],
+			[
+				"box",
+				"box-sizing"
+			],
+			[
+				"BRA",
+				"border-radius"
+			],
+			[
+				"no-",
+				"no-repeat"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"lef",
+				"left"
+			],
+			[
+				"conl",
+				"conlog	Console JS log"
+			],
+			[
+				"co",
+				"conlog	Console JS log"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "EXPRESS SCRIPTS\n\n3 month supply by mail for $20\n\n\n401K \nCan contribute up to 25%\n\nStock Purchase Plan\n\nTeladoc.com\n1-800-teladoc\n\nLifescope Employee Assistance\n- lifescopeeap.com \n- ipg/guest\n- counseling, legal advice\n\nHyatt Legal Services\nGroup and Home Auto (liberty mutual or metlife)\n\n\ninterpublicbenefitsonline.ehr.com\npay.hugeinc.com\nretireonline.com\n\nK33p!t$imp\nK##p1tSimp\nK33p!T$imp\n\nK##P!Tsimp\nK33p!TSimp\nK33p!t$imp\nK33p1t$imp\nK##P1t$imp\nK##P!t$imp\n",
+			"settings":
+			{
+				"buffer_size": 459,
+				"line_ending": "Unix",
+				"name": "EXPRESS SCRIPTS"
+			}
+		},
+		{
+			"file": "README.md",
+			"settings":
+			{
+				"buffer_size": 1141,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/index.html",
+			"settings":
+			{
+				"buffer_size": 1443,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/scripts/kioskApp.js",
+			"settings":
+			{
+				"buffer_size": 1246,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"pretty",
+				"HTMLPrettify"
+			],
+			[
+				"pret",
+				"HTMLPrettify: Set Prettify Preferences"
+			],
+			[
+				"user",
+				"Preferences: Settings - User"
+			],
+			[
+				"lint settings",
+				"Preferences: SublimeLinter Settings – User"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: List Packages"
+			],
+			[
+				"sett",
+				"Preferences: SublimeLinter Settings – Default"
+			],
+			[
+				"setting",
+				"Preferences: SublimeLinter Settings – User"
+			],
+			[
+				"package",
+				"Preferences: Package Control Settings – User"
+			],
+			[
+				"lint",
+				"SublimeLinter: Show Error List"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"prefix",
+				"Autoprefix CSS"
+			],
+			[
+				"prefer",
+				"Preferences: Settings - User"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"packag",
+				"Preferences: Browse Packages"
+			],
+			[
+				"packages",
+				"Package Control: List Packages"
+			],
+			[
+				"html",
+				"Snippet: html"
+			],
+			[
+				"pack",
+				"Preferences: Browse Packages"
+			],
+			[
+				"disab",
+				"Package Control: Disable Package"
+			],
+			[
+				"disable",
+				"Package Control: Disable Package"
+			],
+			[
+				"disa",
+				"SublimeCodeIntel: Disable Plugin"
+			],
+			[
+				"snipp	",
+				"Snippet: html"
+			],
+			[
+				"settings",
+				"Preferences: Settings - User"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 593.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/mijohnson/Dev/sonic/dev-nots.md",
+		"/Users/mijohnson/Dev/__github/chrome-kiosk/app/styles/main.css",
+		"/Users/mijohnson/Dev/__github/chrome-kiosk/app/manifest.json",
+		"/Users/mijohnson/Dev/__github/chrome-kiosk/Gruntfile.js",
+		"/Users/mijohnson/Dev/__github/chrome-kiosk/app/scripts/index.js",
+		"/Users/mijohnson/Dev/__github/chrome-kiosk/app/scripts/main.js",
+		"/Users/mijohnson/Dev/__github/chrome-kiosk/node_modules/grunt-chrome-manifest/.jshintrc",
+		"/Users/mijohnson/Dev/__github/chrome-kiosk/.jshintrc",
+		"/Users/mijohnson/Dev/__github/chrome-kiosk/app/ welcome.html",
+		"/Users/mijohnson/Dev/__github/chrome-kiosk/dist/styles/main.css",
+		"/Users/mijohnson/Dev/__github/chrome-kiosk/dist/index.html",
+		"/Users/mijohnson/Dev/__github/chrome-kiosk/dist/manifest.json",
+		"/Users/mijohnson/Dev/__github/chrome-kiosk/README.md",
+		"/Volumes/Dev/dealershipsites/DealershipSites.Website/DealershipSites/Sublayouts/Pages/VehicleSearch.ascx",
+		"/Volumes/Dev/dealershipsites/DealershipSites.Website/styles/platform/components/_header.scss",
+		"/Volumes/Dev/dealershipsites/DealershipSites.Website/styles/oem/_components/_header.scss",
+		"/Volumes/Dev/dealershipsites/DealershipSites.Website/styles/platform/_config.scss",
+		"/Volumes/Dev/dealershipsites/DealershipSites.Website/styles/platform/components/_navigation.scss",
+		"/Volumes/Dev/dealershipsites/DealershipSites.Website/styles/oem/_components/_navigation.scss",
+		"/Volumes/Dev/dealershipsites/DealershipSites.Website/js/vehicle/vehicleSearch/refine/refineSearch.ctrl.js",
+		"/Volumes/Dev/dealershipsites/DealershipSites.Website/dealershipsites/Sublayouts/Globals/Header.ascx",
+		"/Volumes/Dev/dealershipsites/DealershipSites.Website/js/common/toggle-list/toggle-list.ctrl.directive.js",
+		"/Volumes/Dev/dealershipsites/DealershipSites.Website/js/common/toggle-list/toggle-list.template.html",
+		"/Volumes/Dev/dealershipsites/DealershipSites.Website/dealershipsites/Sublayouts/Globals/Navigation.ascx",
+		"/Volumes/Dev/dealershipsites/DealershipSites.Website/DealershipSites/Sublayouts/Modules/CannedSearch.ascx",
+		"/Volumes/Dev/dealershipsites/DealershipSites.Website/styles/oem/_common/_forms.scss",
+		"/Volumes/Dev/dealershipsites/DealershipSites.Website/styles/oem/_components/_canned-search.scss",
+		"/Volumes/Dev/dealershipsites/DealershipSites.Website/styles/platform/components/_canned-search.scss",
+		"/Volumes/Dev/dealershipsites/DealershipSites.Website/styles/platform/views/_appointments.scss",
+		"/Volumes/Dev/dealershipsites/DealershipSites.Website/styles/oem/_components/_hero-search.scss",
+		"/Volumes/Dev/dealershipsites/DealershipSites.Website/styles/platform/components/_hero-search.scss",
+		"/Volumes/Dev/dealershipsites/DealershipSites.Website/styles/platform/components/_hero.scss",
+		"/Volumes/Dev/dealershipsites/DealershipSites.Website/styles/platform/views/_views.scss",
+		"/Volumes/Dev/dealershipsites/DealershipSites.Website/styles/oem/_views/_views.scss",
+		"/Volumes/Dev/dealershipsites/DealershipSites.Website/js/home/hero-search/affordability-search.template.html",
+		"/Volumes/Dev/dealershipsites/DealershipSites.Website/DealershipSites/Sublayouts/Modules/HeroSearch.ascx",
+		"/Volumes/Dev/dealershipsites/DealershipSites.Website/styles/oem/toyota/_toyota-config.scss",
+		"/Volumes/Dev/dealershipsites/DealershipSites.Website/js/common/contact-form/contact-form.template.html",
+		"/Volumes/Dev/dealershipsites/DealershipSites.Website/styles/oem/_components/_contact-form.scss",
+		"/Volumes/Dev/dealershipsites/DealershipSites.Website/styles/platform/components/_contact-form.scss",
+		"/Volumes/Dev/dealershipsites/DealershipSites.Website/js/vehicle/vehicleCompare.html",
+		"/Volumes/Dev/dealershipsites/DealershipSites.Website/js/buy/calculations/calc.model.js",
+		"/Volumes/Dev/dealershipsites/DealershipSites.Website/js/account/garage/myGarage.template.html",
+		"/Volumes/Dev/dealershipsites/DealershipSites.Website/js/account/garage/favorites.template.html",
+		"/Volumes/Dev/dealershipsites/DealershipSites.Website/styles/platform/views/_my-garage.scss",
+		"/Volumes/Dev/dealershipsites/DealershipSites.Website/js/account/garage/favorites-mobile.template.html",
+		"/Volumes/Dev/dealershipsites/DealershipSites.Website/DealershipSites/Sublayouts/Pages/VehicleDetails.ascx",
+		"/Volumes/Dev/dealershipsites/DealershipSites.Website/styles/platform/common/_icons.scss",
+		"/Volumes/Dev/dealershipsites/DealershipSites.Website/styles/platform/views/_vehicle-details-information.scss",
+		"/Volumes/Dev/dealershipsites/DealershipSites.Website/js/vehicle/vehicleSearch/vehicleSearch.ctrl.js",
+		"/Volumes/Dev/dealershipsites/DealershipSites.Website/styles/oem/_views/_vehicle-details-information.scss",
+		"/Volumes/Dev/dealershipsites/DealershipSites.Website/js/vehicle/vehicleDetails/calculator-pdp.directive.js",
+		"/Volumes/Dev/dealershipsites/DealershipSites.Website/dist/DealershipSites/Sublayouts/Pages/PartsServicePage.ascx",
+		"/Volumes/Dev/dealershipsites/DealershipSites.Website/js/vehicle/vehicleDetails/calculator-pdp.template.html",
+		"/Volumes/Dev/dealershipsites/DealershipSites.Website/js/vehicle/vehicleDetails/vehicleDetails.ctrl.js",
+		"/Volumes/Dev/dealershipsites/DealershipSites.Website/DealershipSites/Sublayouts/Pages/PartsServicePage.ascx",
+		"/Volumes/Dev/dealershipsites/DealershipSites.Website/dealershipsites/Sublayouts/Pages/VehicleDetails.ascx",
+		"/Volumes/Dev/dealershipsites/DealershipSites.Website/js/buy/calculations/calc-payment.template.html",
+		"/Volumes/Dev/dealershipsites/DealershipSites.Website/js/buy/calculations/calc-landing.template.html",
+		"/Volumes/Dev/dealershipsites/DealershipSites.Website/styles/platform/common/_forms.scss",
+		"/Volumes/Dev/dealershipsites/DealershipSites.Website/DealershipSites/layouts/Main.aspx",
+		"/Volumes/Dev/dealershipsites/DealershipSites.Website/js/vehicle/vehicleSearch/refine/refineSearch.template.html",
+		"/Volumes/Dev/dealershipsites/DealershipSites.Website/styles/oem/_views/_search-refine.scss",
+		"/Volumes/Dev/dealershipsites/DealershipSites.Website/styles/platform/views/_search-refine.scss",
+		"/Volumes/Dev/dealershipsites/DealershipSites.Website/js/vehicle/vehicleSearch/new/newSearch.template.html",
+		"/Volumes/Dev/dealershipsites/DealershipSites.Website/styles/oem/_views/_search-result.scss",
+		"/Volumes/Dev/dealershipsites/DealershipSites.Website/styles/platform/views/_search-result.scss",
+		"/Volumes/Dev/dealershipsites/DealershipSites.Website/js/sell/wizard/sellAppt.template.html",
+		"/Volumes/Dev/dealershipsites/DealershipSites.Website/styles/oem/_views/_sell.scss",
+		"/Volumes/Dev/dealershipsites/DealershipSites.Website/styles/oem/_components/_sell-appt.scss",
+		"/Volumes/Dev/dealershipsites/DealershipSites.Website/styles/platform/common/_structure.scss",
+		"/Volumes/Dev/dealershipsites/DealershipSites.Website/js/sell/wizard/sellAppt.ctrl.js",
+		"/Volumes/Dev/dealershipsites/DealershipSites.Website/images/logo-sonic-white.png",
+		"/Volumes/Dev/dealershipsites/DealershipSites.Website/js/sell/wizard/step1.template.html",
+		"/Volumes/Dev/dealershipsites/DealershipSites.Website/DealershipSites/Sublayouts/Modules/VehicleAtAGlance.ascx",
+		"/Volumes/Dev/dealershipsites/DealershipSites.Website/styles/oem/_views/_vehicle-details-specs.scss",
+		"/Volumes/Dev/dealershipsites/DealershipSites.Website/styles/oem/_common/_common.scss",
+		"/Volumes/Dev/dealershipsites/DealershipSites.Website/styles/oem/_views/_site-search.scss",
+		"/Volumes/Dev/dealershipsites/DealershipSites.Website/dist/DealershipSites/Sublayouts/Pages/AboutUsPage.ascx",
+		"/Volumes/Dev/dealershipsites/DealershipSites.Website/js/common/clickAway.directive.js",
+		"/Volumes/Dev/dealershipsites/DealershipSites.Website/dealershipSites/Sublayouts/Globals/DealershipMaster.ascx",
+		"/Volumes/Dev/dealershipsites/DealershipSites.Website/styles/platform/_shame.scss",
+		"/Volumes/Dev/dealershipsites/DealershipSites.Website/js/vehicle/vehicleSearch/refine/refineSearch.template-mobile.html",
+		"/Volumes/Dev/dealershipsites/DealershipSites.Website/DealershipSites/Sublayouts/Pages/Search.ascx",
+		"/Volumes/Dev/dealershipsites/DealershipSites.Website/js/search/noResults.template.html",
+		"/Volumes/Dev/dealershipsites/DealershipSites.Website/js/home/hero-search/attribute-search.template.html",
+		"/Volumes/Dev/dealershipsites/DealershipSites.Website/styles/platform/views/_site-search.scss",
+		"/Volumes/Dev/dealershipsites/DealershipSites.Website/js/application.js",
+		"/Volumes/Dev/dealershipsites/DealershipSites.Website/js/vehicle/vehicleDetails/shareMenu.directive.js",
+		"/Volumes/Dev/dealershipsites/DealershipSites.Website/styles/oem/toyota/toyota.scss",
+		"/Volumes/Dev/dealershipsites/DealershipSites.Website/js/home/hero-search/affordability-search.ctrl.directive.js",
+		"/Volumes/Dev/dealershipsites/DealershipSites.Website/styles/platform/components/_new-search.scss",
+		"/Volumes/Dev/dealershipsites/DealershipSites.Website/styles/oem/_components/_new-search.scss",
+		"/Volumes/Dev/dealershipsites/DealershipSites.Website/Gruntfile.js",
+		"/Volumes/Dev/dealershipsites/DealershipSites.Website/styles/common/_animation.scss",
+		"/Volumes/Dev/dealershipsites/DealershipSites.Website/styles/common/_structure.scss",
+		"/Volumes/Dev/dealershipsites/DealershipSites.Website/styles/_shame.scss",
+		"/Volumes/Dev/dealershipsites/DealershipSites.Website/styles/toyota-views.scss",
+		"/Volumes/Dev/dealershipsites/DealershipSites.Website/styles/toyota.scss",
+		"/Volumes/Dev/dealershipsites/DealershipSites.Website/styles/common/_common.scss",
+		"/Volumes/Dev/dealershipsites/DealershipSites.Website/styles/platform.scss",
+		"/Volumes/Dev/dealershipsites/DealershipSites.Website/styles/common/_z-index.scss",
+		"/Volumes/Dev/dealershipsites/DealershipSites.Website/styles/oem/ford/_ford-config.scss",
+		"/Volumes/Dev/dealershipsites/DealershipSites.Website/styles/_config.scss",
+		"/Volumes/Dev/dealershipsites/DealershipSites.Website/styles/oem/infiniti/_infiniti-config.scss",
+		"/Volumes/Dev/dealershipsites/DealershipSites.Website/js/vehicle/vehicleSearch/vehicleSearch.service.js",
+		"/Volumes/Dev/dealershipsites/DealershipSites.Website/styles/cadillac-views.scss",
+		"/Volumes/Dev/dealershipsites/DealershipSites.Website/styles/views/_sell.scss",
+		"/Volumes/Dev/dealershipsites/DealershipSites.Website/styles/components/_contact-form.scss",
+		"/Volumes/Dev/dealershipsites/DealershipSites.Website/styles/platform/views/.gitkeep",
+		"/Volumes/Dev/dealershipsites/DealershipSites.Website/.tmp/styles/ford.css",
+		"/Volumes/Dev/dealershipsites/DealershipSites.Website/styles/cadillac.scss",
+		"/Volumes/Dev/dealershipsites/DealershipSites.Website/styles/views-cadillac.scss",
+		"/Volumes/Dev/dealershipsites/DealershipSites.Website/styles/components/_similar-vehicles.scss",
+		"/Volumes/Dev/dealershipsites/DealershipSites.Website/styles/ford.scss",
+		"/Volumes/Dev/dealershipsites/DealershipSites.Website/styles/common/_icons.scss",
+		"/Volumes/Dev/dealershipsites/DealershipSites.Website/styles/views/_search-result.scss",
+		"/Volumes/Dev/dealershipsites/DealershipSites.Website/styles/views/_vehicle-details.scss",
+		"/Volumes/Dev/dealershipsites/DealershipSites.Website/styles/views/_vehicle-details-carousel.scss",
+		"/Volumes/Dev/dealershipsites/DealershipSites.Website/js/vehicle/vehicleCompare.ctrl.js",
+		"/Volumes/Dev/dealershipsites/DealershipSites.Website/styles/views/_vehicle-details-assurances.scss",
+		"/Volumes/Dev/dealershipsites/DealershipSites.Website/styles/views/_vehicle-details-specs.scss",
+		"/Volumes/Dev/dealershipsites/DealershipSites.Website/styles/views/_vehicle-details-reviews.scss",
+		"/Volumes/Dev/dealershipsites/DealershipSites.Website/styles/views/_vehicle-details-information.scss",
+		"/Volumes/Dev/dealershipsites/DealershipSites.Website/js/account/login.ctrl.js",
+		"/Volumes/Dev/dealershipsites/DealershipSites.Website/js/account/profile/myProfile.ctrl.js",
+		"/Volumes/Dev/dealershipsites/DealershipSites.Website/js/vehicle/vehicleDetails/appointment.ctrl.js",
+		"/Volumes/Dev/dealershipsites/DealershipSites.Website/js/carfinder/carfinder.ctrl.js"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"/Users/mijohnson/Dev/__github/chrome-kiosk/app",
+			"/Users/mijohnson/Dev/__github/chrome-kiosk",
+			"/Volumes/Dev/dealershipsites/DealershipSites.Website/js,-*.css",
+			"/Volumes/Dev/dealershipsites/DealershipSites.Website/dealershipsites,-*.css",
+			"/Volumes/Dev/dealershipsites/DealershipSites.Website/styles,-*.css",
+			"/Volumes/Dev/dealershipsites/DealershipSites.Website/js,-*.css",
+			"/Volumes/Dev/dealershipsites/DealershipSites.Website/dealershipsites,-*.css",
+			"/Volumes/Dev/dealershipsites/DealershipSites.Website/js,-*.css",
+			"/Volumes/Dev/dealershipsites/DealershipSites.Website/styles,-*.css",
+			"/Volumes/Dev/dealershipsites/DealershipSites.Website/dealershipsites,-*.css",
+			"/Volumes/Dev/dealershipsites/DealershipSites.Website/js,-*.css",
+			"/Volumes/Dev/dealershipsites/DealershipSites.Website/dealershipSites,-*.css",
+			"/Volumes/Dev/dealershipsites/DealershipSites.Website/js,-*.css",
+			"/Volumes/Dev/dealershipsites/DealershipSites.Website/styles,-*.css",
+			"/Volumes/Dev/dealershipsites/DealershipSites.Website/js,-*.css",
+			"/Volumes/Dev/dealershipsites/DealershipSites.Website/styles,-*.css",
+			"/Volumes/Dev/dealershipsites/DealershipSites.Website/styles",
+			"/Volumes/Dev/dealershipsites/DealershipSites.Website/js",
+			"/Volumes/Dev/dealershipsites/DealershipSites.Website/styles",
+			"/Volumes/Dev/dealershipsites/DealershipSites.Website/js",
+			"/Volumes/Dev/dealershipsites/DealershipSites.Website/dealershipsites",
+			"/Volumes/Dev/dealershipsites/DealershipSites.Website/js",
+			"/Volumes/Dev/dealershipsites/DealershipSites.Website/dealershipsites",
+			"/Volumes/Dev/dealershipsites/DealershipSites.Website/",
+			"/Volumes/Dev/dealershipsites/DealershipSites.Website/STYLES",
+			"/Volumes/Dev/dealershipsites/DealershipSites.Website/",
+			"/Volumes/Dev/dealershipsites/DealershipSites.Website/dealershipsites",
+			"/Volumes/Dev/dealershipsites/DealershipSites.Website/",
+			"/Volumes/Dev/dealershipsites/DealershipSites.Website/dealershipsites",
+			"/Volumes/Dev/dealershipsites/DealershipSites.Website/styles/",
+			"/Volumes/Dev/dealershipsites/DealershipSites.Website/styles/*.scss",
+			"/Volumes/Dev/dealershipsites/DealershipSites.Website/styles",
+			"/Volumes/Dev/dealershipsites/DealershipSites.Website/",
+			"/Volumes/Dev/dealershipsites/DealershipSites.Website/styles",
+			"/Volumes/Users/sitecore/Documents/_dev/treetrunk/EchoPark.Website/styles/",
+			"/Volumes/Users/sitecore/Documents/_dev/treetrunk/EchoPark.Website/scripts/",
+			"/Volumes/Users/sitecore/Documents/_dev/treetrunk/EchoPark.Website/styles/",
+			"/Volumes/Users/sitecore/Documents/_dev/treetrunk/EchoPark.Website/styles",
+			"/Volumes/Users/sitecore/Documents/_dev/treetrunk/EchoPark.Website/styles/",
+			"/Volumes/Users/sitecore/Documents/_dev/treetrunk/EchoPark.Website/styles/neat",
+			"/Volumes/Users/sitecore/Documents/_dev/treetrunk/EchoPark.Website/styles",
+			"/Volumes/Users/sitecore/Documents/_dev/treetrunk/TreeTrunk.Website/styles",
+			"",
+			"/Users/mijohnson/Dev/FGL/sportcheck-ww/app/styles",
+			"",
+			"<project>"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"display",
+			"localWebviewSrc",
+			"MIN",
+			"uglify",
+			"$window.",
+			"localStorageService",
+			"lsSubmit",
+			"predef",
+			"'Allo",
+			"allo",
+			"webview",
+			"watch",
+			"phone",
+			"false",
+			"showYearDropdown",
+			"toggle-list",
+			"icon-sign-in",
+			".toggle",
+			"position: ab",
+			"position: ",
+			"site-header",
+			"toggle",
+			"wrap",
+			".btn",
+			"$copy-on-light:",
+			"$copy-on-light",
+			"directions",
+			"launchDirections",
+			"initvehicleSe",
+			"location.",
+			"url",
+			"setuprefinelist",
+			"init",
+			"refe",
+			"ref",
+			"init",
+			"for ",
+			"getRefineSearchValues",
+			"obj",
+			"i",
+			"key",
+			"apply",
+			"reset",
+			"watch",
+			"getVehicles",
+			"params",
+			"urlpa",
+			"refineSearchValues",
+			"$location",
+			"url",
+			"setupRefineListener",
+			"changedBySearch",
+			"refineListener",
+			"watch",
+			"url",
+			"window.location",
+			"location",
+			"||",
+			"ng-if",
+			"// ",
+			"book a test drive",
+			"loanterm",
+			"calcPdp",
+			"calc-pdp",
+			"estimate monthly ",
+			"border-radius",
+			"btn-echo",
+			"ng-options",
+			"dateIndex",
+			"availableTimes",
+			"h3",
+			" $hairline-on-dark",
+			"step-footer",
+			"footer",
+			"step-footer",
+			"button",
+			"disabled",
+			"h2",
+			"vehicle-performance",
+			"$hairline-on-light",
+			".large",
+			"vehicle-information-nav",
+			"theme-dark",
+			"secondary",
+			"intro",
+			".search ",
+			".search",
+			"transparent",
+			"disabled",
+			"&.btn",
+			"toyota",
+			"light",
+			"button-",
+			"apply",
+			"btn ",
+			"button ",
+			"button",
+			"primary",
+			"large",
+			"custom-drop",
+			"\"",
+			"inventoryTypes",
+			"<select",
+			"select",
+			"click-away",
+			"clickAway",
+			"click-away",
+			"'click'",
+			"add.listener",
+			"selectInventoryType",
+			"modernizr",
+			"type",
+			"Button",
+			"button",
+			"closeVehicleTypeSelect",
+			"7px",
+			"triangle",
+			".triangle",
+			";\n",
+			"mail",
+			"toyota",
+			"view.showTerms=false",
+			"delayBlur",
+			"common",
+			".info",
+			"hide",
+			"leave",
+			"enter"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"RetailValue",
+			"Retail Value",
+			"ModelCode",
+			"InteriorColor",
+			"ExteriorColor",
+			"BodyStyle",
+			"TrimLevel",
+			"StockNumber",
+			"4",
+			"3",
+			"2",
+			"1",
+			"0",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"settings":
+					{
+						"buffer_size": 459,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								458,
+								458
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"auto_name": "EXPRESS SCRIPTS",
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": true,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "README.md",
+					"settings":
+					{
+						"buffer_size": 1141,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								828,
+								828
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": true,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "app/index.html",
+					"settings":
+					{
+						"buffer_size": 1443,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1198,
+								1198
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": true,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/AngularJS/AngularJS.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "app/scripts/kioskApp.js",
+					"settings":
+					{
+						"buffer_size": 1246,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								826,
+								823
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": true,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 5.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"mani",
+				"app/manifest.json"
+			],
+			[
+				"gr",
+				"Gruntfile.js"
+			],
+			[
+				"grunt",
+				"Gruntfile.js"
+			],
+			[
+				"manifest",
+				"app/manifest.json"
+			],
+			[
+				"jshint",
+				".jshintrc"
+			],
+			[
+				"hshint",
+				"node_modules/grunt-chrome-manifest/.jshintrc"
+			],
+			[
+				"footer",
+				"DealershipSites/Sublayouts/Globals/Footer.ascx"
+			],
+			[
+				"_nav",
+				"styles/oem/_components/_navigation.scss"
+			],
+			[
+				"header",
+				"DealershipSites/Sublayouts/Globals/Header.ascx"
+			],
+			[
+				"refine",
+				"js/vehicle/vehicleSearch/refine/refineSearch.ctrl.js"
+			],
+			[
+				"toggle-li",
+				"js/common/toggle-list/toggle-list.template.html"
+			],
+			[
+				"_conf",
+				"styles/platform/_config.scss"
+			],
+			[
+				"_header",
+				"styles/platform/components/_header.scss"
+			],
+			[
+				"_hero-sear",
+				"styles/platform/components/_hero-search.scss"
+			],
+			[
+				"hero",
+				"styles/platform/components/_hero.scss"
+			],
+			[
+				"hero-sear",
+				"styles/oem/_components/_hero-search.scss"
+			],
+			[
+				"views",
+				"styles/oem/_views/_views.scss"
+			],
+			[
+				"apointments",
+				"styles/platform/views/_appointments.scss"
+			],
+			[
+				"afford",
+				"js/home/hero-search/affordability-search.template.html"
+			],
+			[
+				"herosear",
+				"DealershipSites/Sublayouts/Modules/HeroSearch.ascx"
+			],
+			[
+				"canned-se",
+				"styles/platform/components/_canned-search.scss"
+			],
+			[
+				"forms",
+				"styles/oem/_common/_forms.scss"
+			],
+			[
+				"canned",
+				"DealershipSites/Sublayouts/Modules/CannedSearch.ascx"
+			],
+			[
+				"toyota",
+				"styles/oem/toyota/_toyota-config.scss"
+			],
+			[
+				"_config",
+				"styles/platform/_config.scss"
+			],
+			[
+				"canned-sear",
+				"styles/oem/_components/_canned-search.scss"
+			],
+			[
+				"vehicledeta",
+				"DealershipSites/Sublayouts/Pages/VehicleDetails.ascx"
+			],
+			[
+				"gmap",
+				"js/common/gmap/gmap.ctrl.directive.js"
+			],
+			[
+				"notes",
+				"Notes"
+			],
+			[
+				"vehiclese",
+				"js/vehicle/vehicleSearch/vehicleSearch.ctrl.js"
+			],
+			[
+				"icons",
+				"styles/platform/common/_icons.scss"
+			],
+			[
+				"vehicle-det",
+				"styles/platform/views/_vehicle-details-information.scss"
+			],
+			[
+				"vehicle-details-in",
+				"styles/oem/_views/_vehicle-details-information.scss"
+			],
+			[
+				"vehiclede",
+				"DealershipSites/Sublayouts/Pages/VehicleDetails.ascx"
+			],
+			[
+				"vehiclesearch",
+				"js/vehicle/vehicleSearch/vehicleSearch.ctrl.js"
+			],
+			[
+				"favorites",
+				"js/account/garage/favorites-mobile.template.html"
+			],
+			[
+				"my-gar",
+				"styles/platform/views/_my-garage.scss"
+			],
+			[
+				"garage",
+				"js/account/garage/myGarage.template.html"
+			],
+			[
+				"compare",
+				"js/vehicle/vehicleCompare.html"
+			],
+			[
+				"vehicledet",
+				"DealershipSites/Sublayouts/Pages/VehicleDetails.ascx"
+			],
+			[
+				"vehicleetails",
+				"DealershipSites/Sublayouts/Pages/VehicleDetails.ascx"
+			],
+			[
+				"vehicldde",
+				"js/vehicle/vehicleDetails/vehicleDetails.ctrl.js"
+			],
+			[
+				"calculator",
+				"js/vehicle/vehicleDetails/calculator-pdp.template.html"
+			],
+			[
+				"calc",
+				"js/buy/calculations/calc-landing.template.html"
+			],
+			[
+				"payment",
+				"js/buy/calculations/calc-payment.template.html"
+			],
+			[
+				"service",
+				"dist/DealershipSites/Sublayouts/Pages/PartsServicePage.ascx"
+			],
+			[
+				"vehiclesear",
+				"js/vehicle/vehicleSearch/vehicleSearch.ctrl.js"
+			],
+			[
+				"_search-results",
+				"styles/platform/views/_search-result.scss"
+			],
+			[
+				"_search-res",
+				"styles/oem/_views/_search-result.scss"
+			],
+			[
+				"contact-form",
+				"styles/platform/components/_contact-form.scss"
+			],
+			[
+				"contact",
+				"js/common/contact-form/contact-form.template.html"
+			],
+			[
+				"vehicle-detail-in",
+				"styles/platform/views/_vehicle-details-information.scss"
+			],
+			[
+				"new",
+				"js/vehicle/vehicleSearch/new/newSearch.template.html"
+			],
+			[
+				"search-re",
+				"styles/platform/views/_search-refine.scss"
+			],
+			[
+				"struc",
+				"styles/platform/common/_structure.scss"
+			],
+			[
+				"main.",
+				"DealershipSites/layouts/Main.aspx"
+			],
+			[
+				"sell",
+				"js/sell/wizard/sellAppt.ctrl.js"
+			],
+			[
+				"sell-app",
+				"styles/oem/_components/_sell-appt.scss"
+			],
+			[
+				"_sell",
+				"styles/oem/_views/_sell.scss"
+			],
+			[
+				"hero-s",
+				"styles/oem/_components/_hero-search.scss"
+			],
+			[
+				"atag",
+				"DealershipSites/Sublayouts/Modules/VehicleAtAGlance.ascx"
+			],
+			[
+				"vehicle-deta",
+				"styles/oem/_views/_vehicle-details-specs.scss"
+			],
+			[
+				"_common",
+				"styles/oem/_common/_common.scss"
+			],
+			[
+				"about",
+				"dist/DealershipSites/Sublayouts/Pages/AboutUsPage.ascx"
+			],
+			[
+				"search-ref",
+				"styles/platform/views/_search-refine.scss"
+			],
+			[
+				"search",
+				"DealershipSites/Sublayouts/Pages/Search.ascx"
+			],
+			[
+				"attri",
+				"js/home/hero-search/attribute-search.template.html"
+			],
+			[
+				"site-",
+				"styles/platform/views/_site-search.scss"
+			],
+			[
+				"_site-sear",
+				"styles/oem/_views/_site-search.scss"
+			],
+			[
+				"nores",
+				"js/search/noResults.template.html"
+			],
+			[
+				"_forms",
+				"styles/oem/_common/_forms.scss"
+			],
+			[
+				"_search-refine",
+				"styles/platform/views/_search-refine.scss"
+			],
+			[
+				"shame",
+				"styles/platform/_shame.scss"
+			],
+			[
+				"new-se",
+				"styles/platform/components/_new-search.scss"
+			],
+			[
+				"new-search",
+				"styles/oem/_components/_new-search.scss"
+			],
+			[
+				"vehicle-de",
+				"styles/platform/views/_vehicle-details-information.scss"
+			],
+			[
+				"share",
+				"js/vehicle/vehicleDetails/shareMenu.directive.js"
+			],
+			[
+				"_comm",
+				"styles/common/_common.scss"
+			],
+			[
+				"_sham",
+				"styles/_shame.scss"
+			],
+			[
+				"_stru",
+				"styles/common/_structure.scss"
+			],
+			[
+				"_z",
+				"styles/common/_z-index.scss"
+			],
+			[
+				"_anim",
+				"styles/common/_animation.scss"
+			],
+			[
+				"main",
+				"DealershipSites/layouts/Main.aspx"
+			],
+			[
+				"_contact",
+				"styles/components/_contact-form.scss"
+			],
+			[
+				"_ford-",
+				"styles/oem/ford/_ford-config.scss"
+			],
+			[
+				"infinit",
+				"styles/oem/infiniti/_infiniti-config.scss"
+			],
+			[
+				"vehicle-car",
+				"styles/views/_vehicle-details-carousel.scss"
+			],
+			[
+				"_ve",
+				"styles/views/_vehicle-details.scss"
+			],
+			[
+				"vehi",
+				"DealershipSites/Sublayouts/Pages/VehicleSearch.ascx"
+			],
+			[
+				"_icon",
+				"styles/common/_icons.scss"
+			],
+			[
+				"_ani",
+				"styles/common/_animation.scss"
+			],
+			[
+				"_vehi",
+				"styles/components/_similar-vehicles.scss"
+			],
+			[
+				"_vehicle",
+				"styles/views/_vehicle-details-specs.scss"
+			],
+			[
+				"_veh",
+				"styles/views/_vehicle-details-reviews.scss"
+			],
+			[
+				"vehicledetails.",
+				"js/vehicle/vehicleDetails/vehicleDetails.ctrl.js"
+			],
+			[
+				"structu",
+				"styles/common/_structure.scss"
+			],
+			[
+				"vehicled",
+				"DealershipSites/Sublayouts/Pages/VehicleDetails.ascx"
+			],
+			[
+				"_icons",
+				"styles/common/_icons.scss"
+			],
+			[
+				"_vehicle-d",
+				"styles/views/_vehicle-details.scss"
+			],
+			[
+				"carfinder",
+				"js/carfinder/carfinder.ctrl.js"
+			],
+			[
+				"_typ",
+				"styles/common/_typography.scss"
+			],
+			[
+				"mixins",
+				"styles/common/_mixins.scss"
+			],
+			[
+				"vehicles",
+				"DealershipSites/Sublayouts/Pages/VehicleSearch.ascx"
+			],
+			[
+				"testdrive",
+				"js/vehicle/testDrive/testdrive.template.html"
+			],
+			[
+				"main.as",
+				"DealershipSites/layouts/Main.aspx"
+			],
+			[
+				"_str",
+				"styles/common/_structure.scss"
+			],
+			[
+				"quick",
+				"styles/views/_search-result-quickview.scss"
+			],
+			[
+				"_shame",
+				"styles/_shame.scss"
+			],
+			[
+				"carousel",
+				"styles/views/_vehicle-details-carousel.scss"
+			],
+			[
+				"animation",
+				"VM Compass/styles/common/_animation.scss"
+			],
+			[
+				"splash",
+				"sportcheck-ww/app/views/splash.html"
+			],
+			[
+				"splash.sc",
+				"Wilson Wall/styles/views/splash.scss"
+			],
+			[
+				"",
+				"sportcheck-ww/app/views/attract.html"
+			],
+			[
+				"index",
+				"sportcheck-ww/app/index.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 285.0,
+	"status_bar_visible": true
+}

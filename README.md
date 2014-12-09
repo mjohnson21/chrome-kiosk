@@ -67,3 +67,21 @@ At this stage, does the user need a chromebox?
 
 
 
+# Lessons Learned
+
+- Local storage is replaced by chrome.storage.local
+
+- Can't just slip a url into a webview. Need to use $sce
+
+
+
+
+
+
+
+
+
+
+
+
+
