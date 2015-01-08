@@ -4,13 +4,13 @@
 * Description
 */
 'use strict';
-angular.module('KioskApp', ['chromeStorage'])
+angular.module('KioskApp', ['chromeStorage', 'ngAnimate'])
 
 .controller('kioskCtrl', ['$scope', '$sce', '$timeout', function ($scope, $sce, $timeout) {
 
 	// Keep power on, run fullscreen
 	chrome.power.requestKeepAwake('display');
-	chrome.app.window.current().fullscreen();
+	// chrome.app.window.current().fullscreen();
 
 	$scope.setWebviewSrc = function() {
 		$scope.safeWebviewSrc = $sce.trustAsResourceUrl($scope.currentWebviewSrc);
@@ -38,8 +38,6 @@ angular.module('KioskApp', ['chromeStorage'])
 		});
 
 	};
-
-
 
 
 }]);

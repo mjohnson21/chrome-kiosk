@@ -36,7 +36,40 @@ body {
 = Admin Panel
 ======================================================== */
 .admin-panel {
-	padding: 2em;
+	background-color: #eee;
+	.container {
+		background-color: #fff;
+		padding: 5em;
+		max-width: 40em;
+		margin: 5em auto;
+	}
+}
+
+
+
+
+
+
+
+
+
+
+
+.ani-fadeIn {
+    &.ng-enter {
+       	transition: .5s opacity;
+        opacity: 0;
+        &.ng-enter-active {
+            opacity: 1;
+        }
+    }
+    &.ng-hide-remove {
+       	transition: .5s opacity;
+        opacity: 0;
+        &.ng-hide-remove-active {
+            opacity: 1;
+        }
+    }
 }
 
 
