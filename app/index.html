@@ -18,15 +18,38 @@
 
         <webview class="webview" ng-src="{{safeWebviewSrc}}"></webview>
 
-        <button class="btn-admin" ng-click="showAdmin=!showAdmin">Admin</button>
+        <!-- Auth panel -->
+        <div class="admin-panel ng-hide" ng-show="showAuth && !authenticated">
+            <h1>Please authenticate</h1>
+            <input type="text" name="username" placeholder="username" ng-model="user.username">
+            <input type="password" name="password" placeholder="password" ng-model="user.password">
+            <button ng-click="auth()">Login</button>
+            <button ng-click="cancel()">Cancel</button>
+            
+            <!-- Error with credentials -->
+            <div ng-show="error">
+                <h2>Error logging in</h2>
+                Please check your credentials
+            </div>
+        </div>
 
-        <div class="admin-panel ng-hide ani-fadeIn" ng-show="showAdmin">
+        <!-- Loading overlay -->
+        <div class="admin-panel ng-hide" ng-show="loading">
+            <h1>Loading...</h1>
+        </div>
+
+        <button class="btn-admin" ng-click="showAdminPanel()">Admin</button>
+
+         <!-- Admin panel -->
+        <div class="admin-panel ng-hide ani-fadeIn" ng-show="showAdmin && authenticated">
             <div class="container">
                 <h1>Admin Panel</h1>
                 <form ng-submit="setWebviewSrc()">
                     <input placeholder="webviewSrc" type="text" ng-model="currentWebviewSrc">
                     <button ng-click="setWebviewSrc()">submit</button>
                 </form>
+                <h2>Logged in as {{user.username}}</h2>
+                <button ng-click="logout()">logout</button>
             </div>
         </div>
 
@@ -35,6 +58,8 @@
         <script src="bower_components/angular/angular.js"></script>
         <script src="bower_components/angular-animate/angular-animate.js"></script>
         <script src="bower_components/angular-chrome-storage/angular-chrome-storage.js"></script>
+        <script src="bower_components/firebase/firebase.js"></script>
+        <script src="bower_components/angular-md5/angular-md5.js"></script>
         <!-- endbower -->
         <!-- endbuild -->
 
